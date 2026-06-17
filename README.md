@@ -59,13 +59,7 @@ Inventory-Tracker/
 
 ## Output Screenshots
 
-![Index File](screenshots/index.png)
-
-![Style File](screenshots/style.png)
-
-![SQL File](screenshots/inventory.png)
-
-![Project Output](screenshots/output.png)
+Screenshots of the project output are available in the screenshots folder.
 
 ---
 
@@ -89,6 +83,7 @@ This project was developed as part of the CodTech Internship Program. The Invent
 
 *Kalavakunta Harshitha*  
 *Intern ID:* CTTS056
+
 
 
 
